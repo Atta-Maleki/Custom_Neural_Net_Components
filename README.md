@@ -16,9 +16,4 @@ Content List
 - **Manual_HelloWorldOfNN.ipynb**: After knowing how to implement any important part of a neural network, we can implement a neural network for the "Hello World" of neural networks. I chose a simple problem to make it easy to understand what is going on.
 
 - **Manual_Huber_Loss.ipynb**: We all used Huber Loss before and know the formula. So we can implement it manually. The file contains a manual Huber Loss function, and we call our manually implemented Huber Loss function while we compile the model.
-
-Source: Conversation with Bing, 12/20/2023
-(1) How do you create a custom activation function with Keras?. https://stackoverflow.com/questions/43915482/how-do-you-create-a-custom-activation-function-with-keras.
-(2) 02-activation-functions.ipynb - Colaboratory - Google Colab. https://colab.research.google.com/github/PytorchLightning/lightning-tutorials/blob/publication/.notebooks/course_UvA-DL/02-activation-functions.ipynb.
-(3) C1_W3_Lab_3_custom-layer-activation - GitHub. https://github.com/BenjiKCF/Custom-Models-Layers-and-Loss-Functions-with-TensorFlow/blob/main/C1_W3_Lab_3_custom-layer-activation.ipynb.html.
-(4) Custom activation functions with trainable parameters. https://discuss.pytorch.org/t/custom-activation-functions-with-trainable-parameters/52186.
+  
