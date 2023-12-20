@@ -2,7 +2,7 @@
 How can we customize the components of a Neural Network? We can replace any component of the NN with a personalized or modified version. This repository contains useful codes for people interested in building a Neural Network from scratch. You will even learn how Gradient Descent works and be able to write your own Gradient Descent function. If you’re wondering why it’s important to customize each component, the answer is that it’s not that important if you’re just using the application of NN for your projects and it’s not your field. However, if you want to know how it works and what happens in deeper parts of the back-stage, have a look at the codes inside the repository.
 
 
-Content List
+Content List & Discription
 ---
 
 - **AdamOptimizerGradients.ipynb**: This file contains a callable and runnable class for the Adam optimizer, which is a popular optimization algorithm used in neural networks.
